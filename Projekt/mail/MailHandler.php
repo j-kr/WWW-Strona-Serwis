@@ -1,13 +1,13 @@
 <?php
-	$owner_email='admin@daw-ram.esy.es';
+	$owner_email='#';
 	//SMTP server settings	
-	$host = 'mx1.hostinger.pl';
-    $port = "587";
+	$host = '#';
+    $port = "#";
     $username = '';
-    $password = 'dawram13/1';
+    $password = '#';
 
     $subject='Wiadomosc ze strony! ';
-    $user_email='admin@daw-ram.esy.es';    
+    $user_email='#';    
 	$message_body='';
 	$message_type='html';
 
